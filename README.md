@@ -1,7 +1,3 @@
-Here's a professional **GitHub README description** you can use for your project.
-
----
-
 # 🚀 AI Resume Reviewer
 
 An AI-powered resume analysis application that compares a candidate's resume against a target job description and generates an intelligent evaluation using **FastAPI**, **React**, **Ollama**, and **Gemma 3**. The application provides a match score, strengths, weaknesses, missing keywords, and actionable suggestions while keeping all processing completely local.
@@ -49,6 +45,10 @@ An AI-powered resume analysis application that compares a candidate's resume aga
 ---
 
 ## 📸 Screenshots
+<img width="737" height="706" alt="Dashboard" src="https://github.com/user-attachments/assets/2d1e2a84-c730-4598-970b-4754dff03af0" />
+<img width="1253" height="362" alt="History" src="https://github.com/user-attachments/assets/27a52ddb-7e68-435d-b327-7262217127d2" />
+<img width="1291" height="907" alt="Results" src="https://github.com/user-attachments/assets/d147f6e2-f606-454b-b625-d6e482f2579f" />
+
 
 ### Dashboard
 
@@ -111,11 +111,6 @@ resume-reviewer/
 7. The analysis is stored for future reference.
 
 ---
-
-## 📈 Work Demo
-<img width="737" height="706" alt="Dashboard" src="https://github.com/user-attachments/assets/2d1e2a84-c730-4598-970b-4754dff03af0" />
-<img width="1253" height="362" alt="History" src="https://github.com/user-attachments/assets/27a52ddb-7e68-435d-b327-7262217127d2" />
-<img width="1291" height="907" alt="Results" src="https://github.com/user-attachments/assets/d147f6e2-f606-454b-b625-d6e482f2579f" />
 
 
 ## 📈 Future Improvements
